@@ -14,8 +14,8 @@
 
 
 :sparkles: **About Me**
-- 🔭 I’m currently working as a front end developer.
-- 😄 Pronouns: She/Her
+- I’m currently working as a front end developer.
+- Pronouns: She/Her
 
 
 :rocket: **Tech Stack**
