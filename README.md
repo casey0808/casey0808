@@ -20,6 +20,6 @@
 
 :rocket: **Tech Stack**
 - ![react](https://img.shields.io/badge/-react-blue) ![vue](https://img.shields.io/badge/-vue-success)
-- ![javascript](https://img.shields.io/badge/-javascript-green) ![typescript](https://img.shields.io/badge/-typescript-blueviolet) ![html](https://img.shields.io/badge/-html-lightgrey) ![css](https://img.shields.io/badge/-css-orange)
+- ![javascript](https://img.shields.io/badge/-javascript-yellow) ![typescript](https://img.shields.io/badge/-typescript-blueviolet) ![html](https://img.shields.io/badge/-html-lightgrey) ![css](https://img.shields.io/badge/-css-orange)
 
 
