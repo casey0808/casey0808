@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋 This is Casey
 
 <!--
-**casey0808/casey0808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+:sparkles: **About Me**
+- 🔭 I’m currently working as a front end developer.
+- 😄 Pronouns: She/Her
+
+
+:rocket: **Tech Stack**
+- ![react](https://img.shields.io/badge/-react-blue) ![vue](https://img.shields.io/badge/-vue-success)
+- ![javascript](https://img.shields.io/badge/-javascript-green) ![typescript](https://img.shields.io/badge/-typescript-blueviolet) ![html](https://img.shields.io/badge/-html-lightgrey) ![css](https://img.shields.io/badge/-css-orange)
+
+
