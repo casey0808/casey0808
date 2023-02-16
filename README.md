@@ -14,7 +14,8 @@
 
 
 :sparkles: **About Me**
-- I’m currently working as a front end developer.
+- Full-time front end developer.
+- Part-time fCC translator.
 - Pronouns: She/Her
 
 
