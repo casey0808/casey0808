@@ -15,7 +15,7 @@
 
 :sparkles: **About Me**
 - Full-time front end developer.
-- Part-time fCC translator.
+- Part-time freeCodeCamp translator.
 - Pronouns: She/Her
 
 
